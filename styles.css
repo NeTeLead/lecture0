@@ -1,0 +1,36 @@
+h1 {
+  color:#1CC8DF;
+  text-align: center;
+}
+p {
+  color: red;
+}
+table {
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+th,td {
+  border: 1px solid black;
+  padding: 5px;
+}
+th {
+  background-color: gray;
+}
+
+#top {
+  font-size: 36px;
+}
+
+#middle {
+  font-size: 24px;
+}
+
+#bottom {
+  font-size: 12px;
+}
+
+.name {
+  font-weight: bold;
+}
